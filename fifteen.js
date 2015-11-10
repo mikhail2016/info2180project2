@@ -1,3 +1,4 @@
+/*Extra feature- Alerts the user when the game is won*/
 "use strict";
 window.onload=function(){
 var mypuzzle= document.getElementById("puzzlearea");
